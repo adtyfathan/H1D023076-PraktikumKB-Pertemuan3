@@ -1,6 +1,7 @@
 # Batu Gunting Kertas - Permainan Terminal
 
 ## 🎮 Tentang Permainan
+![Alt text](./ss.png "Screenshot")
 Permainan ini adalah implementasi dari permainan klasik "Batu, Gunting, Kertas" yang dapat dimainkan di terminal menggunakan bahasa Python. Pemain akan memilih satu dari tiga opsi (batu, gunting, atau kertas), lalu komputer akan memilih secara acak. Hasil permainan ditentukan berdasarkan aturan standar:
 
 - **Batu menang melawan Gunting**
